@@ -1,0 +1,17 @@
+.git
+.gitignore
+.github
+
+bin/
+*.exe
+*.out
+*.test
+
+k8s/
+kind-config.yaml
+docker-compose.yml
+Makefile
+README.md
+.env
+.vscode/
+.idea/
